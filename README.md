@@ -3,10 +3,6 @@
 Interaktywna aplikacja webowa typu **To-Do List**, stworzona w HTML, CSS i jQuery.  
 Pozwala na dodawanie, usuwanie oraz reorganizację zadań przy użyciu prostych przycisków i animacji.  
 
-![Podgląd aplikacji](img/screenshot.png)
-
----
-
 ## ✨ Funkcje  
 
 - ➕ **Dodawanie zadań** – wpisz treść i kliknij "Dodaj".  
